@@ -1,10 +1,4 @@
-[11/6, 3:21 PM] Tessy C.Okanni: <h2>We Protect Your Business Too</h2>
-<p>We no just put you online. We lock your website, we backup your work, and we keep hackers away.</p>
-<p>✅ Padlock Security (SSL)</p>
-<p>✅ Backup - Your work no go loss</p>
-<p>✅ Protection from hackers</p>
-<p><b>Put Online + Protect = CloudLume Tech</b></p>
-[11/6, 3:34 PM] Tessy C.Okanni: provider "aws" {
+provider "aws" {
   region = "eu-west-1"
 }
 
